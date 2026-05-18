@@ -4,14 +4,7 @@
 
 ## 📌 Overview
 
-**Shared-Knowledge** is a curated repository designed to collect, organize, and share technical knowledge across multiple domains, including:
-
-- 🔐 Application Security (SAST / DAST / DevSecOps)
-- 🖥 Infrastructure & System Hardening
-- ☁️ Cloud Security & Container Security
-- 🐧 Linux / FreeBSD / VMware Security
-- 🤖 Automation Scripts & Operational Tools
-- 📚 Technical Research & Best Practices
+**Shared-Knowledge** is a curated repository designed to collect, organize, and share technical knowledge across multiple domains.
 
 This repository serves as a shared reference for engineers, security practitioners, and researchers.
 
