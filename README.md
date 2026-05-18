@@ -38,7 +38,3 @@ This repository emphasizes:
 ## 👨‍💻 Maintained By
 
 Security Engineering • Research • Automation • Continuous Improvement
-
-```
-
-```
