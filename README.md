@@ -24,11 +24,11 @@ This repository serves as a shared reference for engineers, security practitione
 
 ## 📂 Repository Structure
 
-````bash
+```bash
 Shared-Knowledge/
 ├── SAST/
 └── DAST/
-```bash
+```
 
 ## 🚀 Focus Areas
 
@@ -45,4 +45,7 @@ This repository emphasizes:
 ## 👨‍💻 Maintained By
 
 Security Engineering • Research • Automation • Continuous Improvement
-````
+
+```
+
+```
