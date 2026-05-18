@@ -22,6 +22,14 @@ This repository serves as a shared reference for engineers, security practitione
 - Preserve reusable scripts, configurations, and research notes
 - Support continuous learning and collaboration
 
+## 📂 Repository Structure
+
+````bash
+Shared-Knowledge/
+├── SAST/
+└── DAST/
+```bash
+
 ## 🚀 Focus Areas
 
 Security is not a single tool — it is a process.
@@ -37,3 +45,4 @@ This repository emphasizes:
 ## 👨‍💻 Maintained By
 
 Security Engineering • Research • Automation • Continuous Improvement
+````
