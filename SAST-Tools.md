@@ -416,15 +416,15 @@ Brakeman เป็นเครื่องมือ **SAST สำหรับ Ru
 
 | Tool       | Type             | Scan Speed | Analysis Depth | Multi-language | CI/CD | เหมาะกับ         |
 | ---------- | ---------------- | ---------- | -------------- | -------------- | ----- | ---------------- |
-| Bandit     | SAST             | ⭐⭐⭐⭐   | ⭐⭐⭐         | ❌             | ✅    | Python Projects  |
+| Bandit     | SAST             | ⭐⭐⭐⭐   | ⭐⭐⭐         | Python         | ✅    | Python Projects  |
 | Semgrep    | SAST             | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐       | ✅             | ✅    | DevSecOps        |
 | CodeQL     | SAST             | ⭐⭐⭐     | ⭐⭐⭐⭐⭐     | ✅             | ✅    | Enterprise       |
 | cdxgen     | SBOM             | ⭐⭐⭐⭐   | ⭐⭐           | ✅             | ✅    | Supply Chain     |
-| Gosec      | SAST             | ⭐⭐⭐⭐   | ⭐⭐⭐         | ❌             | ✅    | Go Projects      |
+| Gosec      | SAST             | ⭐⭐⭐⭐   | ⭐⭐⭐         | Go             | ✅    | Go Projects      |
 | Trivy      | Security Scanner | ⭐⭐⭐⭐   | ⭐⭐⭐         | ✅             | ✅    | Containers       |
 | Bearer     | Privacy Scanner  | ⭐⭐⭐⭐   | ⭐⭐           | ✅             | ✅    | API Security     |
 | TruffleHog | Secret Scanner   | ⭐⭐⭐⭐   | ⭐⭐           | ✅             | ✅    | Secret Detection |
-| Brakeman   | SAST             | ⭐⭐⭐⭐   | ⭐⭐⭐         | ❌             | ✅    | Rails Projects   |
+| Brakeman   | SAST             | ⭐⭐⭐⭐   | ⭐⭐⭐         | Ruby on Rails  | ✅    | Rails Projects   |
 
 # 🔬 วิเคราะห์เชิงเปรียบเทียบ
 
