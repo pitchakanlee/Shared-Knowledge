@@ -150,7 +150,7 @@ api_key = "abcd1234"
 </details>
 
 <details>
-<summary><h1>3. CodeQL<h1></summary>
+<summary><h1>3. CodeQL</h1></summary>
 
 ## 📖 ภาพรวม
 
@@ -277,9 +277,7 @@ os.Chmod(file, 0777)
 </details>
 
 <details>
-<summary><h1>6. Trivy</h1></summary>
-
-##Aqua Trivy
+<summary><h1>6. Aqua Trivy</h1></summary>
 
 ## 📖 ภาพรวม
 
